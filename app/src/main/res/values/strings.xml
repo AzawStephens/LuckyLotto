@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lucky Lotto</string>
+    <string name="first_number">1st</string>
+    <string name="second_number">2nd</string>
+    <string name="third_number">3rd</string>
+    <string name="fourth_number">4th</string>
+    <string name="fifth_number">5th</string>
+    <string name="power_ball">Power ball</string>
+    <string name="power_ball_num">6th</string>
+    <string name="image_desc">lottery balls image</string>
+    <string name="button">GET MY FIRST LUCKY NUMBER!</string>
+    <string name="button2">GET MY SECOND LUCKY NUMBER!</string>
+    <string name="button3">GET MY THIRD LUCKY NUMBER!</string>
+    <string name="button4">GET MY FOURTH LUCKY NUMBER!</string>
+    <string name="button5">GET MY FIFTH LUCKY NUMBER!</string>
+    <string name="button6">GET MY POWER BALL!</string>
+    <string name="button7">THINKING.... PRESS AGAIN</string>
+    <string name="button8">PLAY AGAIN!</string>
+
+
+
+</resources>

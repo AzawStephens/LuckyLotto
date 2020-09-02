@@ -1,0 +1,2 @@
+rootProject.name='Lucky Lotto'
+include ':app'
